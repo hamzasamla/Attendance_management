@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1529677711 source:c:\users\dell\desktop\oop-project\attendance-managment\main.cpp
+	<iostream>
+	<string>
+	"register.h"
+	"CourseList.h"
+
+1529674160 c:\users\dell\desktop\oop-project\attendance-managment\include\register.h
+	<iostream>
+	<string>
+	"student.h"
+
+1529674101 c:\users\dell\desktop\oop-project\attendance-managment\include\student.h
+	<iostream>
+	<string>
+
+1529679242 c:\users\dell\desktop\oop-project\attendance-managment\include\courselist.h
+	<iostream>
+	<string>
+	"courses.h"
+
+1529679242 c:\users\dell\desktop\oop-project\attendance-managment\include\courses.h
+	<iostream>
+	<string>
+
+1529638492 source:c:\users\hs laptop\downloads\attendance-managment-20180622t175618z-001\attendance-managment\main.cpp
+	<iostream>
+	<string>
+	"register.h"
+	"CourseList.h"
+
+1529691611 c:\users\hs laptop\downloads\attendance-managment-20180622t175618z-001\attendance-managment\include\register.h
+	<iostream>
+	<string>
+	"student.h"
+
+1529638510 c:\users\hs laptop\downloads\attendance-managment-20180622t175618z-001\attendance-managment\include\student.h
+	<iostream>
+	<string>
+
+1529638502 c:\users\hs laptop\downloads\attendance-managment-20180622t175618z-001\attendance-managment\include\courselist.h
+	<iostream>
+	<string>
+	"courses.h"
+
+1529638504 c:\users\hs laptop\downloads\attendance-managment-20180622t175618z-001\attendance-managment\include\courses.h
+	<iostream>
+	<string>
+
